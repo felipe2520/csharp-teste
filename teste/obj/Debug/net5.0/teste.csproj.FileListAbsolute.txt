@@ -1,0 +1,16 @@
+/home/bald/Desktop/te/teste/bin/Debug/net5.0/teste
+/home/bald/Desktop/te/teste/bin/Debug/net5.0/teste.deps.json
+/home/bald/Desktop/te/teste/bin/Debug/net5.0/teste.runtimeconfig.json
+/home/bald/Desktop/te/teste/bin/Debug/net5.0/teste.runtimeconfig.dev.json
+/home/bald/Desktop/te/teste/bin/Debug/net5.0/teste.dll
+/home/bald/Desktop/te/teste/bin/Debug/net5.0/ref/teste.dll
+/home/bald/Desktop/te/teste/bin/Debug/net5.0/teste.pdb
+/home/bald/Desktop/te/teste/obj/Debug/net5.0/teste.csprojAssemblyReference.cache
+/home/bald/Desktop/te/teste/obj/Debug/net5.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/bald/Desktop/te/teste/obj/Debug/net5.0/teste.AssemblyInfoInputs.cache
+/home/bald/Desktop/te/teste/obj/Debug/net5.0/teste.AssemblyInfo.cs
+/home/bald/Desktop/te/teste/obj/Debug/net5.0/teste.csproj.CoreCompileInputs.cache
+/home/bald/Desktop/te/teste/obj/Debug/net5.0/teste.dll
+/home/bald/Desktop/te/teste/obj/Debug/net5.0/ref/teste.dll
+/home/bald/Desktop/te/teste/obj/Debug/net5.0/teste.pdb
+/home/bald/Desktop/te/teste/obj/Debug/net5.0/teste.genruntimeconfig.cache
